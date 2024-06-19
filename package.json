@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-put",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Replace specified elements of an array with provided values.",
   "license": "Apache-2.0",
   "author": {
@@ -40,7 +40,7 @@
     "@stdlib/array-base-assert-is-complex-floating-point-data-type": "^0.2.1",
     "@stdlib/array-base-assert-is-mostly-safe-data-type-cast": "^0.2.1",
     "@stdlib/array-base-assert-is-real-data-type": "^0.2.1",
-    "@stdlib/array-base-put": "github:stdlib-js/array-base-put#main",
+    "@stdlib/array-base-put": "^0.0.1",
     "@stdlib/array-convert": "^0.2.1",
     "@stdlib/array-dtype": "^0.2.1",
     "@stdlib/assert-has-own-property": "^0.2.1",
@@ -57,7 +57,7 @@
     "@stdlib/array-base-linspace": "^0.2.1",
     "@stdlib/array-base-to-accessor-array": "^0.2.1",
     "@stdlib/array-base-zero-to": "^0.2.1",
-    "@stdlib/array-bool": "github:stdlib-js/array-bool#main",
+    "@stdlib/array-bool": "^0.0.1",
     "@stdlib/array-complex128": "^0.2.1",
     "@stdlib/array-complex64": "^0.2.1",
     "@stdlib/array-float32": "^0.2.1",
