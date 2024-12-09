@@ -180,6 +180,14 @@ console.log( out );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-mskput`][@stdlib/array/mskput]</span><span class="delimiter">: </span><span class="description">replace elements of an array with provided values according to a provided mask array.</span>
+-   <span class="package-name">[`@stdlib/array-place`][@stdlib/array/place]</span><span class="delimiter">: </span><span class="description">replace elements of an array with provided values according to a provided mask array.</span>
+-   <span class="package-name">[`@stdlib/array-take`][@stdlib/array/take]</span><span class="delimiter">: </span><span class="description">take elements from an array.</span>
+
 </section>
 
 <!-- /.related -->
@@ -265,6 +273,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/safe-casts]: https://github.com/stdlib-js/array-safe-casts
 
 [@stdlib/array/same-kind-casts]: https://github.com/stdlib-js/array-same-kind-casts
+
+<!-- <related-links> -->
+
+[@stdlib/array/mskput]: https://github.com/stdlib-js/array-mskput
+
+[@stdlib/array/place]: https://github.com/stdlib-js/array-place
+
+[@stdlib/array/take]: https://github.com/stdlib-js/array-take
+
+<!-- </related-links> -->
 
 </section>
 
