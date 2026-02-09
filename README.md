@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import put from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-put@deno/mod.js';
+import put from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-put@v0.0.3-deno/mod.js';
 ```
 
 #### put( x, indices, values\[, options] )
@@ -134,7 +134,7 @@ var out = put( x, [ -10, 10 ], [ 20, 40 ], {
 import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@deno/mod.js';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import put from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-put@deno/mod.js';
+import put from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-put@v0.0.3-deno/mod.js';
 
 // Generate a linearly spaced array:
 var x = linspace( 0, 100, 11 );
